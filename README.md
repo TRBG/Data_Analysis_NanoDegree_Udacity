@@ -1,7 +1,7 @@
 # Data Analysis NanoDegree - Udacity
 This is some of the codes I created (or modified) through my work in the Udacity Data Analysis Nano Degree. The codes are categorized based on the different sections within the Nano Degree.
 
-In this repo, most (if not all) of the codes are based on **Python 3** (for more info click [here](https://www.python.org/). The codes also utilizes the following Python libraries:
+In this repo, most (if not all) of the codes are based on **Python 3** (for more info click [here](https://www.python.org/)). The codes also utilizes the following Python libraries:
 
 - **Numpy** (for more info click [here](http://www.numpy.org/))
 - **Pandas** (for more info click [here](https://pandas.pydata.org/about.html))
