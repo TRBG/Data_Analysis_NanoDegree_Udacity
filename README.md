@@ -3,9 +3,9 @@ This is some of the codes I created (or modified) through my work in the Udacity
 
 In this repo, most (if not all) of the codes are based on **Python 3** (for more info click [here](https://www.python.org/). The codes also utilizes the following Python libraries:
 
-- **Numpy** (for more info click [here](http://www.numpy.org/)
-- **Pandas** (for more info click [here](https://pandas.pydata.org/about.html)
-- **Matplotlib** (for more info click [here](https://matplotlib.org/)
+- **Numpy** (for more info click [here](http://www.numpy.org/))
+- **Pandas** (for more info click [here](https://pandas.pydata.org/about.html))
+- **Matplotlib** (for more info click [here](https://matplotlib.org/))
 
 The codes are also written (mostly) as [Jupyter](https://jupyter.org/) notebooks and I through the [Anaconda](https://www.anaconda.com/) distribution.
 
